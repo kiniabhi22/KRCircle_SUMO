@@ -1,0 +1,1 @@
+<routes><route id="route1" edges="edge1 edge2" probability="0.1" /><route id="route2" edges="edge3 edge4" probability="0.9" /></routes>

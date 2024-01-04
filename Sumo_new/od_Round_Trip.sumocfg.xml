@@ -1,0 +1,1 @@
+<configuration><input><net-file value="C:\Users\HP\Sumo\Sumo-KRCircle-File-main\venv\SUMO_VENV\osm.net.xml" /><route-files value="C:\Users\HP\Sumo\Sumo-KRCircle-File-main\venv\SUMO_VENV\output_dynamic_routes.rou.xml" /></input><time><begin value="0" /><end value="3600" /></time></configuration>
